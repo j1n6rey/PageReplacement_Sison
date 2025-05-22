@@ -30,8 +30,8 @@ A simple and interactive **Page Replacement Simulator** that helps users underst
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/j1n6rey/PageReplacement_Sison
+   cd PageReplacement_Sison
 
 ### Run
 
