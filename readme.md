@@ -2,7 +2,6 @@
 
 A simple and interactive **Page Replacement Simulator** that helps users understand various page replacement algorithms. Built with **HTML**, **CSS**, and **JavaScript**, and packaged as a desktop application using **Electron**.
 
-![Simulator Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Preview) <!-- You can replace this with an actual screenshot from your app -->
 
 ## 💡 Features
 
