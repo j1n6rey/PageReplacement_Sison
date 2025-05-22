@@ -24,8 +24,8 @@ A simple and interactive **Page Replacement Simulator** that helps users underst
 
 1. Go to the [Releases](https://github.com/j1n6rey/PageReplacement_Sison) tab.
 2. Download the latest `.exe` file.
-3. Run the file — no installation needed!
-
+3. Run the file
+   
 ### Option 2: Run from Source
 
 1. Clone this repository:
