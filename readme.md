@@ -11,7 +11,7 @@ A simple and interactive **Page Replacement Simulator** that helps users underst
   - FIFO (First-In-First-Out)
   - LRU (Least Recently Used)
   - Optimal Page Replacement
-- Clear UI with responsive layout
+- Clear UI 
 
 ## 🛠 Tech Stack
 
