@@ -26,7 +26,8 @@ A simple and interactive **Page Replacement Simulator** that helps users underst
 2. Download the latest `.exe` file.
 3. Run the file
    
-### Option 2: Run from Source
+### Option 2: Run from Source 
+⚠️ Make sure you have Node.js and npm installed.
 
 1. Clone this repository:
    ```bash
