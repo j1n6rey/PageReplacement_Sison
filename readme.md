@@ -1,68 +1,38 @@
-# electron-boilerplate
+# 🧠 Page Replacement Simulator
 
-> Boilerplate to kickstart creating an app with [Electron](https://github.com/electron/electron)
+A simple and interactive **Page Replacement Simulator** that helps users understand various page replacement algorithms. Built with **HTML**, **CSS**, and **JavaScript**, and packaged as a desktop application using **Electron**.
 
-See [awesome-electron](https://github.com/sindresorhus/awesome-electron) for more useful Electron resources.
+![Simulator Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Preview) <!-- You can replace this with an actual screenshot from your app -->
 
-See [Caprine](https://github.com/sindresorhus/caprine) for a production app based on this boilerplate.
+## 💡 Features
 
-## Features
+- Visual simulation of page replacement algorithms
+- Step-by-step execution for better learning
+- Supports common algorithms like:
+  - FIFO (First-In-First-Out)
+  - LRU (Least Recently Used)
+  - Optimal Page Replacement
+- Clear UI with responsive layout
 
-- [`electron-builder`](https://www.electron.build) fully set up to create cross-platform builds
-- [Builds the app on CI](https://www.electron.build/multi-platform-build.html)
-- [Silent auto-updates](https://www.electron.build/auto-update.html)
-- App menu that adheres to the system user interface guidelines
-- [Config handling](https://github.com/sindresorhus/electron-store)
-- [Context menu](https://github.com/sindresorhus/electron-context-menu)
-- [User-friendly handling of unhandled errors](https://github.com/sindresorhus/electron-unhandled)
-- Easily publish new versions to GitHub Releases
-- And much more!
+## 🛠 Tech Stack
 
-## Getting started
+- Frontend: HTML, CSS, JavaScript
+- Desktop App: [Electron](https://www.electronjs.org/)
 
-**Click the "Use this template" button.**
+## 🚀 Getting Started
 
-Alternatively, create a new directory and then run:
+### Option 1: Download the Executable (Recommended)
 
-```sh
-curl -fsSL https://github.com/sindresorhus/electron-boilerplate/archive/main.tar.gz | tar -xz --strip-components 1
-```
+1. Go to the [Releases](https://github.com/j1n6rey/PageReplacement_Sison) tab.
+2. Download the latest `.exe` file.
+3. Run the file — no installation needed!
 
-There's also a [Yeoman generator](https://github.com/sindresorhus/generator-electron).
+### Option 2: Run from Source
 
----
-
-**Remove everything from here and above**
-
----
-
-# App Name
-
-> The best app ever
-
-## Install
-
-*macOS 10.13+, Linux, and Windows 7+ are supported (64-bit only).*
-
-**macOS**
-
-[**Download**](https://github.com/user/repo/releases/latest) the `.dmg` file.
-
-**Linux**
-
-[**Download**](https://github.com/user/repo/releases/latest) the `.AppImage` or `.deb` file.
-
-*The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download.*
-
-**Windows**
-
-[**Download**](https://github.com/user/repo/releases/latest) the `.exe` file.
-
----
-
-## Dev
-
-Built with [Electron](https://electronjs.org).
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
 
 ### Run
 
@@ -76,5 +46,3 @@ npm start
 ```sh
 npm run release
 ```
-
-After Travis finishes building your app, open the release draft it created and click "Publish".
